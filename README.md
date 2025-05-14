@@ -1,6 +1,6 @@
 # Olá, eu sou Filipe Maracci! :wave:
 
-Sou um Cientista de Dados com conhecimento em Python, Power BI e SQL.
+Sou um Cientista de Dados com conhecimentos em Python, Power BI e SQL.
 
 Movido pela curiosidade, constantemente busco incorporar novas ferramentas e técnicas para fornecer soluções inovadoras, além de garantir a qualidade e eficiência no trabalho.
 
